@@ -1,10 +1,10 @@
 # BYTE-BREAKERS SUPERSTORE ANALYSIS
 As part of my project, We analyzed the Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights. The following are some key highlights:  
 
-## Project #Background
+## Project Background
 Byte-Breakers Superstore is a multi-regional retailer striving to improve profitability by addressing uneven sales performance across regions, product categories, and consumer segments.  
 
-## Study #Objectives
+## Study Objectives
 1. Analyze sales trends, profit patterns, and customer behaviors.  
 2. Assess the impact of discounts on profitability.  
 3. Develop actionable strategies to improve business performance.  
