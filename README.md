@@ -1,4 +1,7 @@
 # BYTE-BREAKERS SUPERSTORE ANALYSIS
+
+![Dashboard](https://github.com/Adenuga-Adeyemi/Byte-Breakers-Superstores-Analysis/blob/main/DASHBOARD.png)
+
 As part of my project, We analyzed the Byte-Breakers Superstore dataset (2014–2017) using Excel and Power BI to build an interactive dashboard and uncover actionable insights. The following are some key highlights:  
 
 ## Project Background
